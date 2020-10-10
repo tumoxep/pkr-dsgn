@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2194"
+   width="2561"
    height="1024"
-   viewBox="0 0 580.49584 270.93334"
+   viewBox="0 0 677.59793 270.93334"
    version="1.1"
    id="svg5316"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -115,6 +115,28 @@
          x="309.5625"
          y="0" />
     </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask2241-3">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.824421"
+         id="rect2243-0"
+         width="203.2"
+         height="270.93329"
+         x="95.25"
+         y="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3109">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.397036"
+         id="rect3111"
+         width="84.666664"
+         height="150.8125"
+         x="0"
+         y="0" />
+    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -124,8 +146,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1775.6743"
-     inkscape:cy="160.84494"
+     inkscape:cx="1323.8151"
+     inkscape:cy="396.36888"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -157,8 +179,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2085"
-       mask="url(#mask2087)">
+       id="g3107"
+       mask="url(#mask3109)">
       <rect
          style="fill:#232f34;fill-opacity:1;fill-rule:evenodd;stroke-width:0.397037"
          id="rect12-9"
@@ -2293,5 +2315,51 @@
          x="309.73129"
          y="254.48965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">- высота стола не меняется</tspan></text>
+    <rect
+       style="fill:#233034;fill-opacity:1;fill-rule:evenodd;stroke:#4a6572;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-4"
+       width="84.666664"
+       height="103.18752"
+       x="592.79895"
+       y="0.1322915"
+       rx="6.7733331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#4a6572;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="599.23578"
+       y="5.8559718"
+       id="text1150-19-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan1148-8-7-2"
+         x="599.23578"
+         y="5.8559718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4a6572;fill-opacity:1;stroke-width:0.264583">Auto check/fold</tspan></text>
+    <rect
+       style="opacity:0.999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.913044"
+       id="rect2971"
+       width="3.1750004"
+       height="3.175"
+       x="595.44476"
+       y="2.7781248"
+       rx="0.5291667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#4a6572;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="599.23578"
+       y="10.243293"
+       id="text1150-19-0-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan1148-8-7-2-8"
+         x="599.23578"
+         y="10.243293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4a6572;fill-opacity:1;stroke-width:0.264583">Call any</tspan></text>
+    <rect
+       style="opacity:0.999;fill:#4a6572;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2971-7"
+       width="3.1750004"
+       height="3.175"
+       x="595.44476"
+       y="7.1654458"
+       rx="0.52916676" />
   </g>
 </svg>
